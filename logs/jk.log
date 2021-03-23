@@ -1,0 +1,102 @@
+2021-03-23 20:29:17,454 [main] INFO  c.jk.web.embedded.JKWebApplication - Starting web-server at port 8080....
+2021-03-23 20:29:18,424 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:29:19,493 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2021-03-23 20:29:19,524 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-23 20:29:19,525 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.43
+2021-03-23 20:29:20,079 [localhost-startStop-1] INFO  o.a.catalina.startup.ContextConfig - No global web.xml found
+2021-03-23 20:29:41,750 [localhost-startStop-1] INFO  o.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-03-23 20:29:42,138 [localhost-startStop-1] INFO  c.j.w.servlets.JKWebContextListener - initialized 
+2021-03-23 20:29:42,302 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 20:29:42,303 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 20:29:43,820 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 20:29:43,821 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 20:29:44,656 [localhost-startStop-1] INFO  c.j.w.f.e.JKFacesExceptionHandlerFactory - initialized 
+2021-03-23 20:29:45,408 [localhost-startStop-1] INFO  c.j.w.faces.renderers.JKPreRenderer - initialized 
+2021-03-23 20:29:45,708 [localhost-startStop-1] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.13.Final
+2021-03-23 20:29:49,393 [localhost-startStop-1] INFO  c.j.w.f.decorators.JKTagDecorator - Enable Tag Decoration is: false
+2021-03-23 20:29:49,770 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Messages - initialized 
+2021-03-23 20:29:49,777 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Util - initialized 
+2021-03-23 20:29:49,839 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 20:29:49,839 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 20:29:49,840 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 20:29:49,840 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 20:29:49,849 [localhost-startStop-1] INFO  com.jk.web.filters.JKDefaultFilter - initialized 
+2021-03-23 20:29:49,854 [localhost-startStop-1] INFO  c.j.w.f.SetCharacterEncodingFilter - initialized 
+2021-03-23 20:29:49,858 [localhost-startStop-1] INFO  com.jk.web.filters.JKNoCacheFilter - @JKNoCacheFilter initialized...  
+2021-03-23 20:29:50,835 [localhost-startStop-1] INFO  c.j.w.s.server.JKServiceConfig - RestServer initialized to packages com.jk.web.services.server
+2021-03-23 20:29:52,569 [localhost-startStop-1] INFO  com.jk.web.servlets.JKLogoutServlet - JKLogoutServlet Initilized 
+2021-03-23 20:29:53,035 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:29:53,036 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:29:53,054 [main] INFO  c.jk.web.embedded.JKWebApplication - Web server started at URL :  http://localhost:8080
+2021-03-23 20:51:40,919 [main] INFO  com.jk.util.config.JKConfig - Init.. 
+2021-03-23 20:51:40,952 [main] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 20:51:40,958 [main] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 20:51:40,958 [main] INFO  com.jk.util.config.JKConfig - Adding all environment variables 
+2021-03-23 20:53:26,299 [main] INFO  c.jk.web.embedded.JKWebApplication - Starting web-server at port 8080....
+2021-03-23 20:53:27,267 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:53:28,619 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2021-03-23 20:53:28,687 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-23 20:53:28,688 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.43
+2021-03-23 20:53:29,379 [localhost-startStop-1] INFO  o.a.catalina.startup.ContextConfig - No global web.xml found
+2021-03-23 20:53:49,203 [localhost-startStop-1] INFO  o.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-03-23 20:53:49,769 [localhost-startStop-1] INFO  c.j.w.servlets.JKWebContextListener - initialized 
+2021-03-23 20:53:50,104 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 20:53:50,107 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 20:53:51,568 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 20:53:51,569 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 20:53:52,298 [localhost-startStop-1] INFO  c.j.w.f.e.JKFacesExceptionHandlerFactory - initialized 
+2021-03-23 20:53:53,309 [localhost-startStop-1] INFO  c.j.w.faces.renderers.JKPreRenderer - initialized 
+2021-03-23 20:53:53,540 [localhost-startStop-1] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.13.Final
+2021-03-23 20:53:57,863 [localhost-startStop-1] INFO  c.j.w.f.decorators.JKTagDecorator - Enable Tag Decoration is: false
+2021-03-23 20:53:58,618 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Messages - initialized 
+2021-03-23 20:53:58,662 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Util - initialized 
+2021-03-23 20:53:58,750 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 20:53:58,751 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 20:53:58,752 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 20:53:58,754 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 20:53:58,770 [localhost-startStop-1] INFO  com.jk.web.filters.JKDefaultFilter - initialized 
+2021-03-23 20:53:58,773 [localhost-startStop-1] INFO  c.j.w.f.SetCharacterEncodingFilter - initialized 
+2021-03-23 20:53:58,777 [localhost-startStop-1] INFO  com.jk.web.filters.JKNoCacheFilter - @JKNoCacheFilter initialized...  
+2021-03-23 20:54:00,643 [localhost-startStop-1] INFO  c.j.w.s.server.JKServiceConfig - RestServer initialized to packages com.jk.web.services.server
+2021-03-23 20:54:02,929 [localhost-startStop-1] INFO  com.jk.web.servlets.JKLogoutServlet - JKLogoutServlet Initilized 
+2021-03-23 20:54:03,378 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:54:03,379 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 20:54:03,416 [main] INFO  c.jk.web.embedded.JKWebApplication - Web server started at URL :  http://localhost:8080
+2021-03-23 20:55:02,264 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Init.. 
+2021-03-23 20:55:02,273 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 20:55:02,278 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 20:55:02,279 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Adding all environment variables 
+2021-03-23 21:02:17,661 [main] INFO  c.jk.web.embedded.JKWebApplication - Starting web-server at port 8080....
+2021-03-23 21:02:18,319 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 21:02:19,530 [main] INFO  o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2021-03-23 21:02:19,585 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-23 21:02:19,586 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.43
+2021-03-23 21:02:20,117 [localhost-startStop-1] INFO  o.a.catalina.startup.ContextConfig - No global web.xml found
+2021-03-23 21:02:37,258 [localhost-startStop-1] INFO  o.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-03-23 21:02:37,646 [localhost-startStop-1] INFO  c.j.w.servlets.JKWebContextListener - initialized 
+2021-03-23 21:02:37,826 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 21:02:37,826 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.config - Initializing Mojarra 2.2.20 ( 20190731-0757 59754ac80c05d61848a08939ddd11a324f2345ac) for context ''
+2021-03-23 21:02:39,137 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 21:02:39,138 [localhost-startStop-1] INFO  j.e.r.webcontainer.jsf.application - JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+2021-03-23 21:02:39,905 [localhost-startStop-1] INFO  c.j.w.f.e.JKFacesExceptionHandlerFactory - initialized 
+2021-03-23 21:02:40,929 [localhost-startStop-1] INFO  c.j.w.faces.renderers.JKPreRenderer - initialized 
+2021-03-23 21:02:41,079 [localhost-startStop-1] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.13.Final
+2021-03-23 21:02:43,354 [localhost-startStop-1] INFO  c.j.w.f.decorators.JKTagDecorator - Enable Tag Decoration is: false
+2021-03-23 21:02:44,314 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Util - initialized 
+2021-03-23 21:02:44,320 [localhost-startStop-1] INFO  com.jk.web.faces.mb.MB_Messages - initialized 
+2021-03-23 21:02:44,371 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 21:02:44,372 [localhost-startStop-1] INFO  o.p.w.PostConstructApplicationEventListener - Running on PrimeFaces 8.0
+2021-03-23 21:02:44,373 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 21:02:44,374 [localhost-startStop-1] INFO  o.o.VersionLoggerEventListener - Using OmniFaces version 1.14.1
+2021-03-23 21:02:44,382 [localhost-startStop-1] INFO  com.jk.web.filters.JKDefaultFilter - initialized 
+2021-03-23 21:02:44,384 [localhost-startStop-1] INFO  c.j.w.f.SetCharacterEncodingFilter - initialized 
+2021-03-23 21:02:44,387 [localhost-startStop-1] INFO  com.jk.web.filters.JKNoCacheFilter - @JKNoCacheFilter initialized...  
+2021-03-23 21:02:45,626 [localhost-startStop-1] INFO  c.j.w.s.server.JKServiceConfig - RestServer initialized to packages com.jk.web.services.server
+2021-03-23 21:02:46,607 [localhost-startStop-1] INFO  com.jk.web.servlets.JKLogoutServlet - JKLogoutServlet Initilized 
+2021-03-23 21:02:46,873 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 21:02:46,873 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 21:02:46,889 [main] INFO  c.jk.web.embedded.JKWebApplication - Web server started at URL :  http://localhost:8080
+2021-03-23 21:02:57,343 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Init.. 
+2021-03-23 21:02:57,347 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 21:02:57,349 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Config file (file:/G:/source/github/remote-command-executor-microservice/target/classes/config.properties) found, loading it 
+2021-03-23 21:02:57,350 [http-nio-8080-exec-1] INFO  com.jk.util.config.JKConfig - Adding all environment variables 

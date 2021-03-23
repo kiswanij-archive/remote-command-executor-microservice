@@ -1,0 +1,13 @@
+target
+.project
+.classpath
+.settings
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+tomcat*/*
+front-end/.vscode/settings.json
+*.db
+.factorypath
+*.vpp.*
+target
+.class
